@@ -1,4 +1,25 @@
 # FluPrediction
+
+Project Overview: 
+
+Influenza remains one of the most widespread illnesses globally, posing serious public health challenges year after year. This project explores the environmental triggers of flu outbreaks by developing and evaluating advanced machine learning models to predict the spread of influenza in England, United Kingdom.
+
+Spanning data from June 2015 to July 2024, the study integrates weather variables and air quality indicators to understand their influence on key flu subtypes — A(H1N1), A(H3N2), and Influenza B.
+
+Using six machine learning models — including Gradient Boosting, Random Forest, and LSTM , the Gradient Boosting multivariate model consistently outperformed the others, achieving an R² of 0.774 and reducing prediction error significantly compared to univariate approaches.
+
+Key environmental contributors identified include:
+
+-Low temperature
+
+-High relative humidity
+
+-PM2.5
+
+-SO₂
+
+These insights are essential for improving public health preparedness, guiding vaccination strategies, and shaping data-driven early warning systems for influenza outbreaks.
+
 Thank you for checking out my project!
 I appreciate your interest and support.
 
