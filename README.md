@@ -10,9 +10,7 @@ For those seeking an in-depth understanding, a 50-page detailed explanation of t
 👉https://drive.google.com/file/d/1hp08yuSHVqHvrO6X2c2sBiXKbiWwYkCg/view?usp=sharing
 
 Please note: This project is shared under the CC BY-NC 4.0 License. Feel free to explore and learn from it, but do not use it for commercial purposes or reproduce it without proper attribution.
-Awesome — here’s your **Data Dictionary** in GitHub-ready **Markdown format** so you can copy and paste it directly into your `README.md`:
 
----
 
 ## 🗂️ Project Notebook and File Descriptions
 
